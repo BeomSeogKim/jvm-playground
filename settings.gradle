@@ -1,0 +1,3 @@
+rootProject.name = 'jvm-playground'
+include 'java-playground'
+include 'kotlin-playground'
